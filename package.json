@@ -1,0 +1,22 @@
+{
+  "name": "event-driven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susannalakey-401-advanced-javascript/event-driven.git"
+  },
+  "author": "Susanna Lakey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susannalakey-401-advanced-javascript/event-driven/issues"
+  },
+  "homepage": "https://github.com/susannalakey-401-advanced-javascript/event-driven#readme"
+}
