@@ -22,5 +22,5 @@
 
 
 #### UML
-![Lab 66 UML](assets/lab-16-UML.jpg)
+![Lab 16 UML](assets/lab-16-UML.jpg)
 
